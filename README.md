@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahul-sontakke
 - 👀 I’m interested in Apache Spark pyspark Python and Scala
-- 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on Spark
 - 📫 How to reach me rmsontakke@gmail.com
 
